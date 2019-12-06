@@ -1,0 +1,208 @@
+[
+    {
+        "id": "index",
+        "tables": [
+            {
+                "title": "手机",
+                "lists": [
+                    {
+                        "img": "./images/nav-index_tab1_list1.jpg",
+                        "name": "手机"
+                    }
+                ]
+            },
+            {
+                "title": "官方配件",
+                "lists": [
+                    {
+                        "img": "./images/nav-index_tab2_list1.jpg",
+                        "name": "数据线"
+                    },
+                    {
+                        "img": "./images/nav-index_tab2_list2.jpg",
+                        "name": "充电器"
+                    },
+                    {
+                        "img": "./images/nav-index_tab2_list3.jpg",
+                        "name": "线控耳机"
+                    },
+                    {
+                        "img": "./images/nav-index_tab2_list4.jpg",
+                        "name": "移动电源"
+                    }
+                ]
+            },
+            {
+                "title": "畅呼吸系列",
+                "lists": [
+                    {
+                        "img": "./images/nav-index_tab3_list1.jpg",
+                        "name": "空气净化器"
+                    },
+                    {
+                        "img": "./images/nav-index_tab3_list2.jpg",
+                        "name": "生活电器配件"
+                    }
+                ]
+            },
+            {
+                "title": "服饰箱包",
+                "lists": [
+                    {
+                        "img": "./images/nav-index_tab4_list1.jpg",
+                        "name": "箱包"
+                    },
+                    {
+                        "img": "./images/nav-index_tab4_list2.jpg",
+                        "name": "男装"
+                    },
+                    {
+                        "img": "./images/nav-index_tab4_list3.jpg",
+                        "name": "鞋"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "parts",
+        "tables": [
+            {
+                "title": "耳机",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab1_list1.jpg",
+                        "name": "蓝牙耳机"
+                    },
+                    {
+                        "img": "./images/nav-parts_tab1_list2.jpg",
+                        "name": "线控耳机"
+                    }
+                ]
+            },
+            {
+                "title": "手机充电配件",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab2_list1.jpg",
+                        "name": "数据线"
+                    },
+                    {
+                        "img": "./images/nav-parts_tab2_list2.jpg",
+                        "name": "充电器"
+                    },
+                    {
+                        "img": "./images/nav-parts_tab2_list3.jpg",
+                        "name": "移动电源"
+                    }
+                ]
+            },
+            {
+                "title": "自拍杆",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab3_list1.jpg",
+                        "name": "自拍杆"
+                    }
+                ]
+            },
+            {
+                "title": "音箱",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab4_list1.jpg",
+                        "name": "音箱"
+                    }
+                ]
+            },
+            {
+                "title": "车载配件",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab5_list1.jpg",
+                        "name": "车载充电器"
+                    }
+                ]
+            },
+            {
+                "title": "保护壳",
+                "lists": [
+                    {
+                        "img": "./images/nav-parts_tab6_list1.jpg",
+                        "name": "手机壳"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "clothes",
+        "tables": [
+            {
+                "title": "服饰",
+                "lists": [
+                    {
+                        "img": "./images/nav-clothes_tab1_list1.jpg",
+                        "name": "衬衫"
+                    },
+                    {
+                        "img": "./images/nav-clothes_tab1_list2.jpg",
+                        "name": "卫衣"
+                    },
+                    {
+                        "img": "./images/nav-clothes_tab1_list3.jpg",
+                        "name": "T恤"
+                    },
+                    {
+                        "img": "./images/nav-clothes_tab1_list4.jpg",
+                        "name": "POLO衫"
+                    }
+                ]
+            },
+            {
+                "title": "鞋",
+                "lists": [
+                    {
+                        "img": "./images/nav-clothes_tab2_list1.jpg",
+                        "name": "帆布鞋"
+                    }
+                ]
+            },
+            {
+                "title": "箱包",
+                "lists": [
+                    {
+                        "img": "./images/nav-clothes_tab3_list1.jpg",
+                        "name": "拉杆箱"
+                    },
+                    {
+                        "img": "./images/nav-clothes_tab3_list2.jpg",
+                        "name": "包"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "breath",
+        "tables": [
+            {
+                "title": "生活电器",
+                "lists": [
+                    {
+                        "img": "./images/nav-breath_tab1_list1.jpg",
+                        "name": "衬衫"
+                    },
+                    {
+                        "img": "./images/nav-breath_tab1_list2.jpg",
+                        "name": "卫衣"
+                    },
+                    {
+                        "img": "./images/nav-breath_tab1_list3.jpg",
+                        "name": "T恤"
+                    }
+                ]
+            }
+        ]
+    }
+]
