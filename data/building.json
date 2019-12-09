@@ -1,0 +1,174 @@
+[
+    {
+        "id": "pro3",
+        "title": "坚果Pro 3 及配件",
+        "mainPic": "./images/pro3-mainPic.jpg",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3",
+                "discription": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+                "price": "2899"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3",
+                "discription": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+                "price": "3199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/a4c73e549097c7f5cf2c5e0d87e56d13.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3",
+                "discription": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+                "price": "3599"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/d159521e479b26f3c97a1e4f00a5aefd.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "smartisan  颈挂蓝牙耳机",
+                "discription": "“圈铁一体代表作”",
+                "price": "199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/8e822aa7cbab24fec7eacf0bbb2f6526.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 弯头数据线（Type-C）",
+                "discription": "“3A”大电流",
+                "price": "24.9"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/bd3372047d251502348a16a533e866e0.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 smartisan 复古相机保护套",
+                "discription": "让你的坚果 Pro3化身为一台现代的“复古相机”",
+                "price": "49"
+            }
+        ]
+    },
+    {
+        "id": "shell",
+        "title": "坚果Pro 3 足迹系列保护套",
+        "mainPic": "./images/shell-mainPic.jpg",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/db1f9c8eadd0164a34e73465a34776a3.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 足迹保护套 德国天文学家开普勒出生",
+                "discription": "这一次，两面都有好故事",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b69694515f503e9c5be2a056314a569e.jpeg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 足迹保护套 数学家哈密顿首次发现四元数",
+                "discription": "这一次，两面都有好故事",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b93f8e0265cf372e774d0a76e32f2c0f.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 足迹保护套 克里斯蒂安·多普勒出生",
+                "discription": "这一次，两面都有好故事",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/31c8be42fbbabad10490835d953be356.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 足迹保护套 莫里斯·詹姆士·麦当劳出生",
+                "discription": "这一次，两面都有好故事",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/8e822aa7cbab24fec7eacf0bbb2f6526.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "坚果 Pro 3 足迹保护套 人类首次公开使用乙醚",
+                "discription": "这一次，两面都有好故事",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/a5b6bf1f38fb88dceeb1e917bec288da.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "smartisan  颈挂蓝牙耳机",
+                "discription": "“圈铁一体代表作”",
+                "price": "199"
+            }
+        ]
+    },
+    {
+        "id": "iphone11",
+        "title": "足迹保护套 for iPhone11",
+        "mainPic": "./images/iphone11-mainPic.jpg",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/3899737bb15dae97d261a080d3b9894d.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+                "discription": "公益宝贝",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b466c9c2f8948309a8d9e4a9d1a437ef.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "足迹保护套  英国科学杂志《自然》出版 for iPhone 11",
+                "discription": "公益宝贝",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/5bcb5d70f8c17efb0a2b4f9852a03128.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+                "discription": "公益宝贝",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/f060313b58a72053a89e1309bac4c3ab.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "足迹保护套 莫里斯·詹姆士·麦当劳出生 for iPhone 11",
+                "discription": "公益宝贝",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/5888f9b53cd1184ac32f2ae778cd7804.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+                "discription": "公益宝贝",
+                "price": "49"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/d159521e479b26f3c97a1e4f00a5aefd.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "smartisan  颈挂蓝牙耳机",
+                "discription": "“圈铁一体代表作”",
+                "price": "199"
+            }
+        ]
+    },
+    {
+        "id": "clothes",
+        "title": "服饰专场",
+        "mainPic": "./images/clothes-mainPic.jpg",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/578116bddf1d170c89e9af7ba5073fb6.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "Smartisan 帆布鞋",
+                "discription": "一双踏实、舒适的帆布鞋",
+                "price": "199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/9f4cb6ffecd8d063bd1caaf0f8b57df5.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "落栗 衬衫 牛津纺",
+                "discription": "",
+                "price": "199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/f5fbdf4e26c727700abc6231746f54be.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "落栗 卫衣 圆领 莫里斯·麦当劳诞生",
+                "discription": "",
+                "price": "249"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/3ed99332f7fc6531d1448140b7dc0e46.jpg?x-oss-process=image/resize,w_216/format,webp",
+                "name": "落栗 卫衣 圆领 开普勒轨道",
+                "discription": "",
+                "price": "249"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/79a0d4666b2e4d03259aed7298bf83d9.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "落栗 卫衣 连帽 多普勒效应",
+                "discription": "",
+                "price": "249"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/68fcf404dafd3baaa2031343c4414021.png?x-oss-process=image/resize,w_216/format,webp",
+                "name": "落栗 卫衣 连帽 多普勒效应",
+                "discription": "",
+                "price": "249"
+            }
+        ]
+    }
+]

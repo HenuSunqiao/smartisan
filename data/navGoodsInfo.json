@@ -1,0 +1,162 @@
+[
+    {
+        "id": "phone",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png?x-oss-process=image/resize,w_126/format,webp",
+                "name": "坚果 Pro 3",
+                "price": "2899"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png?x-oss-process=image/resize,w_126/format,webp",
+                "name": "坚果 Pro 3",
+                "price": "2899"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/a4c73e549097c7f5cf2c5e0d87e56d13.png?x-oss-process=image/resize,w_126/format,webp",
+                "name": "坚果 Pro 3",
+                "price": "2899"
+            }
+        ]
+    },
+    {
+        "id": "dna",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/9bffe702b1f0aea221b1f18ddf886958.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "各色DNA检测套装",
+                "price": "499"
+            }
+        ]
+    },
+    {
+        "id": "print",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/1f1bb248c68392a83a660e773a8ceda7.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普小印手持照片打印机 Sprocket PLUS",
+                "price": "499"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/f6c83d2ed99d05eb9e3936bbba6fdaeb.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）DeskJet 2676 彩色喷墨无线多功能打印机",
+                "price": "449"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/3fdd1ef99b445aaf57726efcbad18fd3.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）DeskJet 3636 彩色喷墨无线多功能打印机",
+                "price": "499"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/1e6afa8b12edb8dc9e4d34d28ef2d8e3.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）Smart Tank 511 彩色喷墨连供多功能打印机",
+                "price": "1299"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/eb7a595b90092112c9f370d50a67bae9.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+                "price": "1199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/28e9e5aa0b2092c1b1d88923fa98fc7a.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）Mini M17w 黑白激光无线单功能打印机",
+                "price": "899"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b161cb80c5d50feca3f4c2555b420e0a.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+                "price": "79"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b594db66d63aa16fdc583d7174c57baf.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）GT52彩色墨水",
+                "price": "64"
+            }
+        ]
+    },
+    {
+        "id": "robot",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/69376ec9945e7cafa1fa393439c8835d.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "科沃斯扫地机器人  DH45",
+                "price": "1799"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b6db8976d3fe9a04b0a58dc82099838b.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "科沃斯扫地机器人 DK35",
+                "price": "1699"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/1a70c3565e33ecf9817f2082a402d70c.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "科沃斯扫地机器人 DF45",
+                "price": "1699"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b1ea23314be6d08474d8d3e9c7ba6e15.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "科沃斯扫地机器人 DN55",
+                "price": "2399"
+            }
+        ]
+    },
+    {
+        "id": "screen",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/2d5bac538fef9800aa5cd8420cfcdc12.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "GoBiggeR 便携式触屏显示器 ZB133TF-W ",
+                "price": "1449"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/f90eb5c8dd0b6221cfdc0b0c3bdd1b87.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "GoBiggeR  便携式触屏显示器 ZB156TF",
+                "price": "1599"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/84b472956d7facb9d7134f7569d3bd84.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "GoBiggeR 便携式触屏显示器  ZB156UT",
+                "price": "1999"
+            }
+        ]
+    },
+    {
+        "id": "culling",
+        "lists": [
+            {
+                "img": "https://resource.smartisan.com/resource/b3000a0d15cdf6e1566d8435148f6428.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "茶素材汀壶电水壶",
+                "price": "698"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/060ba3270e5873ffc954a95d08f29830.png?x-oss-process=image/resize,w_126/format,webp",
+                "name": "茶素材汀壶电水壶",
+                "price": "698"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/834e8388b0017c457c98baa6545cdfb2.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "C-force  USB-C多功能转接器",
+                "price": "148"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/84b472956d7facb9d7134f7569d3bd84.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "GoBiggeR 便携式触屏显示器  ZB156UT",
+                "price": "1999"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/22a6f7f927dd45134c9d2794037354f5.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "惠普（HP）Smart Tank 519 彩色喷墨连供多功能打印机",
+                "price": "1199"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/9bffe702b1f0aea221b1f18ddf886958.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "各色DNA检测套装",
+                "price": "499"
+            },
+            {
+                "img": "https://resource.smartisan.com/resource/b6db8976d3fe9a04b0a58dc82099838b.jpg?x-oss-process=image/resize,w_126/format,webp",
+                "name": "科沃斯扫地机器人 DK35",
+                "price": "1699"
+            }
+        ]
+    }
+]
