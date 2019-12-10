@@ -5,9 +5,10 @@ require.config({
     }
 })
 
-require(["jq", "indexBanner", "indexTab", "indexBuilding", "indexNav"], (_, banner, tab, building, nav) => {
+require(["jq", "indexNav"], (_, nav) => {
 
-    new nav;
-    $("#TopTop").load("http://localhost/smartisan/public.html #header");
+    $("#TopTop").load("http://localhost/smartisan/public.html #header", () => {
+        new nav;
+    });
     $("footer").load("http://localhost/smartisan/public.html #footer");
 })

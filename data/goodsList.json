@@ -1,0 +1,433 @@
+[
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "惠普（HP）GT52彩色墨水",
+        "discription": "支持型号：HP Ink Tank 310/318/319/ 311/410/418/419/ 411/ 118/ 508/511/518/519/531/538/618；HP Deskjet GT 5810/5820 All-in-One",
+        "price": "64",
+        "mainPic": "https://resource.smartisan.com/resource/a7c5b356bec780aa385e88f2107ced1a.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/42770d47670a19158b1bbf8a343de50b.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/762350e4de4c4bc847e98c63c21508f5.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/9a602a05a94b2410c93e5020e113d646.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/494a2b06bc9abaa6f98d8be9bbbc517f.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/34bff3926f693491e255cc319f0cca5c.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods2_detailImg01.jpg",
+            "./images/goods2_detailImg02.jpg",
+            "./images/goods2_detailImg03.jpg",
+            "./images/goods2_detailImg04.jpg",
+            "./images/goods2_detailImg05.jpg",
+            "./images/goods2_detailImg06.jpg",
+            "./images/goods2_detailImg07.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "惠普（HP）GT53XL 黑色墨水",
+        "discription": "支持型号：HP Ink Tank 310/318/319/ 311/ 410/418/419/ 411/ 118；HP Deskjet GT 5810 /5820All-in-One",
+        "price": "59",
+        "mainPic": "https://resource.smartisan.com/resource/299bda5febce10f92d2a4b1552700c90.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/299bda5febce10f92d2a4b1552700c90.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/b9b8e34301c61abc47d7fe915747dbb4.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/1e182ae8ef9d2985805fb43078e0ea1e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods3_detailImg01.jpg",
+            "./images/goods3_detailImg02.jpg",
+            "./images/goods3_detailImg03.jpg",
+            "./images/goods3_detailImg04.jpg",
+            "./images/goods3_detailImg05.jpg",
+            "./images/goods3_detailImg06.jpg",
+            "./images/goods3_detailImg07.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "惠普（HP）原装680墨盒  适用HP2138 3638 3636 3838 5088打印机",
+        "discription": "适用HP2138 3638 3636 3838 5088打印机",
+        "price": "69",
+        "mainPic": "https://resource.smartisan.com/resource/3673f869ad65d38b1b1e60bb94101e6a.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/3673f869ad65d38b1b1e60bb94101e6a.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/2eb7e575a68b6175e2ec340b20d3679a.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods4_detailImg01.jpg",
+            "./images/goods4_detailImg02.jpg",
+            "./images/goods4_detailImg03.jpg",
+            "./images/goods4_detailImg04.jpg",
+            "./images/goods4_detailImg05.jpg",
+            "./images/goods4_detailImg06.jpg",
+            "./images/goods4_detailImg07.jpg",
+            "./images/goods4_detailImg08.jpg",
+            "./images/goods4_detailImg09.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "惠普(HP) 口袋照片打印机ZINK相纸（20张）",
+        "discription": "",
+        "price": "79",
+        "mainPic": "https://resource.smartisan.com/resource/ec9a9682eea336ad1151c7e332e4a957.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/ec9a9682eea336ad1151c7e332e4a957.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/5491263bd4b641f73f1c1cd6f70b78f0.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/5739f444b1d7f292eaa030df00ade63a.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/953a71d4ed0f3346927983fc886e142d.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/953a71d4ed0f3346927983fc886e142d.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "惠普（HP）Mini M30w 黑白激光无线多功能打印机",
+        "discription": "",
+        "price": "1299",
+        "mainPic": "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_216/format,webp",
+        "PicList": [
+            "https://resource.smartisan.com/resource/59fbbab676144fc8a374048361a4ec11.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/3565bafe2e1d15fcbc05aed788762e49.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/38cf70525ea28c8669ad2ec04e7791b3.jpg?x-oss-process=image/resize,w_527/format,webp",
+            "https://resource.smartisan.com/resource/e28ebede0ad59c6cb9b77ebd96e62f2e.jpg?x-oss-process=image/resize,w_527/format,webp"
+        ],
+        "detailInfo": [
+            "./images/goods1_detailImg01.jpg",
+            "./images/goods1_detailImg02.jpg",
+            "./images/goods1_detailImg03.jpg",
+            "./images/goods1_detailImg04.jpg",
+            "./images/goods1_detailImg05.jpg",
+            "./images/goods1_detailImg06.jpg",
+            "./images/goods1_detailImg07.jpg",
+            "./images/goods1_detailImg08.jpg",
+            "./images/goods1_detailImg09.jpg",
+            "./images/goods1_detailImg10.jpg",
+            "./images/goods1_detailImg11.jpg",
+            "./images/goods1_detailImg12.jpg",
+            "./images/goods1_detailImg13.jpg"
+        ]
+    }
+]
