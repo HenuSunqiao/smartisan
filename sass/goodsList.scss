@@ -6,6 +6,8 @@
         border-radius: 8px;
         overflow: hidden;
         ul {
+            display: flex;
+            flex-wrap: wrap;
             li {
                 width: 239px;
                 background: #fff;

@@ -1,21 +1,22 @@
 define(() => {
     'use strict';
-
-    function getQueryVariable(variable) {
-        var query = window.location.search.substring(1);
-        var vars = query.split("&");
-        for (var i = 0; i < vars.length; i++) {
-            var pair = vars[i].split("=");
-            if (pair[0] == variable) {
-                return pair[1];
-            }
-        }
+    //获取地址栏参数//可以是中文参数
+    function getQueryVariable(key) {
+        // 获取参数
+        var url = window.location.search;
+        // 正则筛选地址栏
+        var reg = new RegExp("(^|&)" + key + "=([^&]*)(&|$)");
+        // 匹配目标参数
+        var result = url.substr(1).match(reg);
+        //返回参数值
+        return result ? decodeURIComponent(result[2]) : null;
     }
 
     class Load {
-        constructor() {
+        constructor(options) {
             this.keyWord = getQueryVariable("wd");
             this.container = document.querySelector(".lists ul");
+            this.searchBox = options.searchBox;
             this.info = [];
             this.init();
         }
@@ -33,9 +34,8 @@ define(() => {
         }
         search() {
             if (this.keyWord) {
-                console.log(this.keyWord)
+                this.searchBox.value = this.keyWord;
                 for (let i = 0; i < this.res.length; i++) {
-                    console.log(this.res[i].name)
                     if (this.res[i].name.indexOf(this.keyWord) != -1) {
                         this.info.push(this.res[i]);
                     }
@@ -50,7 +50,7 @@ define(() => {
             for (let i = 0; i < this.info.length; i++) {
                 str += `
                 <li>
-                        <a href="http://localhsot/smartisan/goodsDetail.html?id=${this.info[i].id}">
+                        <a href="http://localhost/smartisan/goodsDetails.html?id=${this.info[i].id}">
                             <figure class="list-pic">
                                 <img src="${this.info[i].mainPic}" alt="">
                             </figure>

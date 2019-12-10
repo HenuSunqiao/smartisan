@@ -8,14 +8,12 @@ define(() => {
             this.categoryList = this.list.querySelectorAll(".category");
             this.goodsList = this.list.querySelectorAll(".goods");
             this.serviceList = this.list.querySelector(".service");
-            // this.goods = this.list.querySelector(".goods");
-            // this.category = this.list.querySelector(".category");
-            // this.service = this.list.querySelector(".service");
             this.wrap = document.querySelector(".nav-wrapper-show");
             this.goodsCont = this.wrap.querySelector(".goods-wrapper");
             this.categoryCont = this.wrap.querySelector(".category-wrapper");
             this.serviceCont = this.wrap.querySelector(".service-list");
-
+            this.searchBox = this.nav.querySelector(".nav-search input");
+            this.searchBtn = this.nav.querySelector(".nav-search button");
             this.init();
         }
         init() {
@@ -45,6 +43,15 @@ define(() => {
             this.nav.onmouseleave = () => {
                 $(this.wrap).stop().slideUp();
             }
+            console.log(this.searchBox);
+            this.searchBox.onkeydown = (e) => {
+                if (e.keyCode == 13) {
+                    location.href = `./goodsList.html?wd=${this.searchBox.value}`;
+                }
+            }
+            this.searchBtn.onclick = () => {
+                location.href = `./goodsList.html?wd=${this.searchBox.value}`;
+            }
         }
         changeTab() {
             for (let i = 0; i < this.categoryList.length; i++) {
@@ -57,7 +64,6 @@ define(() => {
                         if (this.cateRes[j].id == this.categoryList[i].id) {
                             let str = "";
                             for (let k = 0; k < this.cateRes[j].tables.length; k++) {
-                                // console.log(this.cateRes[j].tables[k]);
                                 let listsStr = "";
                                 for (let l = 0; l < this.cateRes[j].tables[k].lists.length; l++) {
                                     listsStr += `

@@ -16,5 +16,9 @@ require(["jq", "indexBanner", "indexTab", "indexBuilding", "indexNav"], (_, bann
         btns: document.querySelector("#hotBrand .title-btn")
     })
     new building(document.querySelector("#building-container"));
-    new nav;
+    $("#header").load("http://localhost/smartisan/public.html header");
+    $("#nav").load("http://localhost/smartisan/public.html nav", () => {
+        new nav;
+    });
+    $("footer").load("http://localhost/smartisan/public.html #footer");
 })

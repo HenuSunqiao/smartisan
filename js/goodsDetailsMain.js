@@ -5,14 +5,11 @@ require.config({
     }
 })
 
-require(["jq", "indexNav", "goodsListLoad"], (_, nav, load) => {
+require(["jq", "indexNav", "goodsDetailsLoad"], (_, nav, load) => {
     $("#header").load("http://localhost/smartisan/public.html header");
     $("#nav").load("http://localhost/smartisan/public.html nav", () => {
-        let navsl = new nav;
-        new load({
-            searchBox:navsl.searchBox,
-            searchBtn :navsl.searchBtn
-        });
+        new nav;
     });
     $("footer").load("http://localhost/smartisan/public.html #footer");
+    new load();
 })

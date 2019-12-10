@@ -8,6 +8,11 @@
   overflow: hidden;
 }
 
+#main .lists ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #main .lists ul li {
   width: 239px;
   background: #fff;
