@@ -48,7 +48,7 @@
 }
 
 #main .items-wrapper .imgBox .picShow .picShow-container {
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #main .items-wrapper .imgBox .picShow .picShow-container img {
@@ -61,7 +61,12 @@
   display: block;
 }
 
+#main .items-wrapper .imgBox .picShow:hover .glass {
+  display: block;
+}
+
 #main .items-wrapper .imgBox .picShow .picBig {
+  background: #fff;
   display: none;
   width: 440px;
   height: 440px;
@@ -73,12 +78,22 @@
 }
 
 #main .items-wrapper .imgBox .picShow .picBig img {
-  width: 700px;
-  height: 700px;
+  width: 1760px;
+  height: 1760px;
   display: block;
   position: absolute;
   top: 0;
   left: 0;
+}
+
+#main .items-wrapper .imgBox .picShow .glass {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  background: rgba(0, 0, 0, 0.2);
+  left: 0;
+  top: 0;
+  display: none;
 }
 
 #main .items-wrapper .detailsBox {
