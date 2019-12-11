@@ -43,7 +43,6 @@ define(() => {
             this.nav.onmouseleave = () => {
                 $(this.wrap).stop().slideUp();
             }
-            console.log(this.searchBox);
             this.searchBox.onkeydown = (e) => {
                 if (e.keyCode == 13) {
                     location.href = `./goodsList.html?wd=${this.searchBox.value}`;

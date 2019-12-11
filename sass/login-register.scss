@@ -15,7 +15,7 @@ main {
     align-items: center;
 
     .container {
-
+        position: relative;
         width: 450px;
         height: 645px;
         border: 1px solid #dadada;
@@ -25,16 +25,26 @@ main {
         background-size: 100px;
         background-repeat: repeat;
 
-        &.login{
-            .input{
+        &.login {
+            .input {
                 margin: 50px 0 40px;
             }
-        }
-        &.register{
-            .input{
-                margin: 25px 0;
+
+            .btn {
+                margin-top: 29px;
             }
         }
+
+        &.register {
+            .input {
+                margin: 25px 0;
+            }
+
+            .btn {
+                margin-top: 60px;
+            }
+        }
+
         .containerBox {
             padding: 30px;
 
@@ -110,7 +120,6 @@ main {
             }
 
             .btn {
-                margin-top: 60px;
 
                 .btn-container {
                     display: flex;
@@ -140,6 +149,27 @@ main {
                 }
             }
 
+            .forget {
+                margin-top: 20px;
+
+                .forget-container {
+                    a {
+                        color: #5079d9;
+                    }
+                }
+            }
+
+            .tips {
+                position: absolute;
+                height: 40px;
+                width: 70%;
+                left: 60px;
+                line-height: 40px;
+                text-align: right;
+                color: red;
+                top: 440px;
+            }
+
             .notice {
                 text-align: center;
                 width: 100%;
@@ -148,9 +178,10 @@ main {
                 padding-top: 24px;
                 border-top: 1px solid #dadada;
                 box-shadow: 0 1px 0 rgba(255, 255, 255, .4) inset;
-                .notice-container{
-                    p{
-                        a{
+
+                .notice-container {
+                    p {
+                        a {
                             color: #5079d9;
                             cursor: pointer;
                         }

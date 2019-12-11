@@ -50,7 +50,6 @@ define(() => {
         render() {
             let picStr = '';
             let detailStr = '';
-            console.log(this.res);
             for (let i = 0; i < this.res.length; i++) {
                 if (this.id == this.res[i].id) {
                     for (let j = 0; j < this.res[i].PicList.length; j++) {
@@ -83,11 +82,9 @@ define(() => {
         }
         changeImg() {
             this.imglists = document.querySelectorAll(".imgList ul li");
-            console.log(this.imglists[0])
             this.imglists[0].className = "active";
             for (let i = 0; i < this.imglists.length; i++) {
                 this.imglists[i].onclick = () => {
-                    console.log(1);
                     for (let j = 0; j < this.imglists.length; j++) {
                         this.imglists[j].className = "";
                     }

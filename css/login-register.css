@@ -17,6 +17,7 @@ main {
 }
 
 main .container {
+  position: relative;
   width: 450px;
   height: 645px;
   border: 1px solid #dadada;
@@ -31,8 +32,16 @@ main .container.login .input {
   margin: 50px 0 40px;
 }
 
+main .container.login .btn {
+  margin-top: 29px;
+}
+
 main .container.register .input {
   margin: 25px 0;
+}
+
+main .container.register .btn {
+  margin-top: 60px;
 }
 
 main .container .containerBox {
@@ -103,10 +112,6 @@ main .container .containerBox .input.password i {
   background-position: -49px 0;
 }
 
-main .container .containerBox .btn {
-  margin-top: 60px;
-}
-
 main .container .containerBox .btn .btn-container {
   display: flex;
 }
@@ -132,6 +137,25 @@ main .container .containerBox .btn .btn-container a {
 main .container .containerBox .btn .btn-container a:hover {
   background: linear-gradient(#4f77c5, #325eb9);
   background: #325eb9;
+}
+
+main .container .containerBox .forget {
+  margin-top: 20px;
+}
+
+main .container .containerBox .forget .forget-container a {
+  color: #5079d9;
+}
+
+main .container .containerBox .tips {
+  position: absolute;
+  height: 40px;
+  width: 70%;
+  left: 60px;
+  line-height: 40px;
+  text-align: right;
+  color: red;
+  top: 440px;
 }
 
 main .container .containerBox .notice {

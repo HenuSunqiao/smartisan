@@ -1,11 +1,19 @@
 require.config({
     baseUrl: "modules",
     paths: {
-        jq: "../libs/jquery"
+        jq: "../libs/jquery",
+        cookie: "../libs/jquery.cookie"
+    },
+    shim: {
+        //配置
+        cookie: {
+            //设置依赖项： jquery
+            deps: ["jq"]
+        }
     }
 })
 
-require(["jq", "indexBanner", "indexTab", "indexBuilding", "indexNav"], (_, banner, tab, building, nav) => {
+require(["jq", "cookie", "indexBanner", "indexTab", "indexBuilding", "indexNav", "makeSureLogin"], (_, __, banner, tab, building, nav, sure) => {
     new banner({
         container: document.querySelector(".banner-container"),
         imgs: document.getElementsByClassName("imgBox")[0].querySelectorAll("img"),
@@ -19,6 +27,7 @@ require(["jq", "indexBanner", "indexTab", "indexBuilding", "indexNav"], (_, bann
     $("#header").load("http://localhost/smartisan/public.html header");
     $("#nav").load("http://localhost/smartisan/public.html nav", () => {
         new nav;
+        new sure;
     });
     $("footer").load("http://localhost/smartisan/public.html #footer");
 })
