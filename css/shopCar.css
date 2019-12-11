@@ -126,11 +126,12 @@ main .cart-container .cart-full .cart-body ul li .items-cont .nameCont .discript
 }
 
 main .cart-container .cart-full .cart-body ul li .items-cont .priceCont {
-  margin-left: 60px;
+  margin-left: 50px;
   text-align: center;
   color: #666;
   line-height: 110px;
-  font-size: 14px;
+  font-size: 18px;
+  font-weight: 800;
 }
 
 main .cart-container .cart-full .cart-body ul li .items-cont .priceCont::before {
@@ -141,7 +142,7 @@ main .cart-container .cart-full .cart-body ul li .items-cont .priceCont::before 
 main .cart-container .cart-full .cart-body ul li .items-cont .numCont {
   display: flex;
   padding-top: 35px;
-  margin-left: 35px;
+  margin-left: 25px;
 }
 
 main .cart-container .cart-full .cart-body ul li .items-cont .numCont .num {
@@ -178,11 +179,12 @@ main .cart-container .cart-full .cart-body ul li .items-cont .numCont .btn.disab
 }
 
 main .cart-container .cart-full .cart-body ul li .items-cont .countCont {
-  margin-left: 40px;
+  margin-left: 25px;
   text-align: center;
   color: #666;
   line-height: 110px;
-  font-size: 14px;
+  font-size: 18px;
+  font-weight: 800;
 }
 
 main .cart-container .cart-full .cart-body ul li .items-cont .countCont::before {

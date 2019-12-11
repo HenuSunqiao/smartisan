@@ -13,7 +13,7 @@ require.config({
     }
 })
 
-require(["jq", "cookie", "indexNav", "goodsDetailsLoad", "makeSureLogin"], (_, __, nav, load, sure) => {
+require(["jq", "cookie", "indexNav", "goodsDetailsLoad", "makeSureLogin" , "goodsDetailsAddCar"], (_, __, nav, load, sure, add) => {
     $("#header").load("http://localhost/smartisan/public.html header");
     $("#nav").load("http://localhost/smartisan/public.html nav", () => {
         new nav;
@@ -21,4 +21,5 @@ require(["jq", "cookie", "indexNav", "goodsDetailsLoad", "makeSureLogin"], (_, _
     });
     $("footer").load("http://localhost/smartisan/public.html #footer");
     new load();
+    new add;
 })

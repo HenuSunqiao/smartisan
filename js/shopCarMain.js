@@ -13,7 +13,8 @@ require.config({
     }
 })
 
-require(["jq", "cookie"], (_, __) => {
+require(["jq", "cookie", "shopCarEve"], (_, __, shopCar) => {
     $("#header").load("http://localhost/smartisan/public.html header");
     $("footer").load("http://localhost/smartisan/public.html #footer");
+    new shopCar;
 })

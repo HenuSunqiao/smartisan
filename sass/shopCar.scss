@@ -129,11 +129,12 @@ main {
                             }
 
                             .priceCont {
-                                margin-left: 60px;
+                                margin-left: 50px;
                                 text-align: center;
                                 color: #666;
                                 line-height: 110px;
-                                font-size: 14px;
+                                font-size: 18px;
+                                font-weight: 800;
 
                                 &::before {
                                     padding-right: 2px;
@@ -144,7 +145,7 @@ main {
                             .numCont {
                                 display: flex;
                                 padding-top: 35px;
-                                margin-left: 35px;
+                                margin-left: 25px;
 
                                 .num {
                                     width: 60px;
@@ -178,15 +179,15 @@ main {
                                         }
                                     }
                                 }
-
                             }
 
                             .countCont {
-                                margin-left: 40px;
+                                margin-left: 25px;
                                 text-align: center;
                                 color: #666;
                                 line-height: 110px;
-                                font-size: 14px;
+                                font-size: 18px;
+                                font-weight: 800;
 
                                 &::before {
                                     padding-right: 2px;
