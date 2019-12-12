@@ -1,5 +1,6 @@
 main {
   margin: 50px 0;
+  min-height: 454px;
 }
 
 main .cart-container {
@@ -94,6 +95,10 @@ main .cart-container .cart-full .cart-body ul li .items-cont .checkCont {
   margin: 50px 0 0 40px;
 }
 
+main .cart-container .cart-full .cart-body ul li .items-cont .checkCont input {
+  cursor: pointer;
+}
+
 main .cart-container .cart-full .cart-body ul li .items-cont .imgCont img {
   margin-top: 15px;
   margin-left: 30px;
@@ -129,6 +134,7 @@ main .cart-container .cart-full .cart-body ul li .items-cont .priceCont {
   margin-left: 50px;
   text-align: center;
   color: #666;
+  width: 90px;
   line-height: 110px;
   font-size: 18px;
   font-weight: 800;
@@ -181,6 +187,7 @@ main .cart-container .cart-full .cart-body ul li .items-cont .numCont .btn.disab
 main .cart-container .cart-full .cart-body ul li .items-cont .countCont {
   margin-left: 25px;
   text-align: center;
+  width: 110px;
   color: #666;
   line-height: 110px;
   font-size: 18px;
@@ -195,7 +202,6 @@ main .cart-container .cart-full .cart-body ul li .items-cont .countCont::before 
 main .cart-container .cart-full .cart-body ul li .items-cont .oprateCont {
   flex: 1;
   display: flex;
-  margin-left: 20px;
   justify-content: center;
   align-items: center;
 }

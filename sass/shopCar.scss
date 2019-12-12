@@ -1,6 +1,6 @@
 main {
     margin: 50px 0;
-
+    min-height: 454px;
     .cart-container {
         background: #fff;
         border-radius: 8px;
@@ -93,6 +93,10 @@ main {
 
                             .checkCont {
                                 margin: 50px 0 0 40px;
+
+                                input {
+                                    cursor: pointer;
+                                }
                             }
 
                             .imgCont {
@@ -132,6 +136,7 @@ main {
                                 margin-left: 50px;
                                 text-align: center;
                                 color: #666;
+                                width: 90px;
                                 line-height: 110px;
                                 font-size: 18px;
                                 font-weight: 800;
@@ -184,6 +189,7 @@ main {
                             .countCont {
                                 margin-left: 25px;
                                 text-align: center;
+                                width: 110px;
                                 color: #666;
                                 line-height: 110px;
                                 font-size: 18px;
@@ -198,7 +204,6 @@ main {
                             .oprateCont {
                                 flex: 1;
                                 display: flex;
-                                margin-left: 20px;
                                 justify-content: center;
                                 align-items: center;
 

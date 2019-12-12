@@ -53,34 +53,37 @@ define(() => {
                     return;
                 }
                 this.isBeing = false;
+                this.isEmpty = false;
                 let obj = {
                     user: this.user,
-                    carInfo: {
+                    carInfo: [{
                         id: this.id,
                         num: this.number.innerHTML
-                    }
+                    }]
                 }
                 for (let i = 0; i < this.shopCar.length; i++) {
                     if (this.shopCar[i].user == this.user) {
-                        console.log(1);
+                        this.isBeing = true;
                         for (let j = 0; j < this.shopCar[i].carInfo.length; j++) {
                             if (this.shopCar[i].carInfo[j].id == this.id) {
-                                this.isBeing = true;
+                                this.isEmpty = true;
                                 this.shopCar[i].carInfo[j].num = (+this.shopCar[i].carInfo[j].num) + (+this.number.innerHTML);
                                 break;
                             }
                         }
+                        if (!this.isEmpty) {
+                            this.shopCar[i].carInfo.push(obj.carInfo[0]);
+                        }
                         break;
                     }
-
                 }
                 if (!this.isBeing) {
                     this.shopCar.push(obj);
                 }
+
                 $.cookie("shopCar", JSON.stringify(this.shopCar), {
                     expires: 100
                 });
-                // console.log(this.shopCar);
             }
         }
     }

@@ -45,8 +45,11 @@ header .header-container ul li {
 }
 
 header .header-container ul li.active {
-  color: #e5e5e5;
   font-weight: 700;
+}
+
+header .header-container ul li.active a {
+  color: #e5e5e5;
 }
 
 header .header-container ul li.app {
